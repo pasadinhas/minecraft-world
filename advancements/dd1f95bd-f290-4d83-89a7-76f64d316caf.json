@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
@@ -95,12 +107,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-10-12 23:28:47 +0000",
       "minecraft:mountains": "2019-10-12 23:46:38 +0000",
       "minecraft:taiga": "2019-10-12 23:44:15 +0000",
       "minecraft:deep_cold_ocean": "2019-10-12 23:28:44 +0000",
+      "minecraft:taiga_hills": "2019-10-13 00:09:13 +0000",
       "minecraft:warm_ocean": "2019-10-12 23:38:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-10-12 23:10:41 +0000",
       "minecraft:badlands": "2019-10-12 23:13:56 +0000",
@@ -147,6 +166,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-10-13 00:09:53 +0000"
     },
     "done": true
   },
@@ -210,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
@@ -255,6 +286,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-10-12 23:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-10-13 00:09:53 +0000"
     },
     "done": true
   },
@@ -324,6 +361,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2019-10-12 23:19:04 +0000"
@@ -366,9 +415,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-10-12 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
     },
     "done": true
   },
@@ -387,6 +448,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-12 23:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-10-13 00:01:44 +0000"
     },
     "done": true
   },
@@ -435,6 +502,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-10-13 00:01:50 +0000"
     },
     "done": true
   },
