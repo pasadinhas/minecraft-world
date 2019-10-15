@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-10-14 22:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-14 14:49:33 +0000"
@@ -241,6 +247,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "salmon": "2019-10-14 22:12:01 +0000",
       "cooked_salmon": "2019-10-12 23:19:13 +0000"
     },
     "done": false
@@ -362,6 +369,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-10-12 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-10-14 22:17:13 +0000"
     },
     "done": true
   },
@@ -593,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-10-14 22:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-12 23:09:42 +0000"
@@ -617,15 +636,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2019-10-14 15:03:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-10-14 15:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-10-14 15:03:48 +0000"
     },
     "done": true
   },
@@ -645,6 +664,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-10-14 15:01:00 +0000",
       "minecraft:spider": "2019-10-12 23:19:04 +0000",
+      "minecraft:silverfish": "2019-10-14 22:04:29 +0000",
       "minecraft:zombie": "2019-10-14 14:59:35 +0000"
     },
     "done": false
@@ -733,15 +753,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2019-10-14 14:58:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-10-14 14:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-10-14 14:58:07 +0000"
     },
     "done": true
   },
@@ -793,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-10-14 22:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-10-12 23:19:19 +0000"
@@ -814,6 +840,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-10-12 23:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-10-14 22:09:56 +0000"
     },
     "done": true
   },
@@ -1003,6 +1035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-10-14 22:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-10-12 23:22:58 +0000"
@@ -1127,6 +1165,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-10-12 23:28:47 +0000",
       "minecraft:mountains": "2019-10-12 23:46:38 +0000",
+      "minecraft:forest": "2019-10-14 22:10:29 +0000",
       "minecraft:taiga": "2019-10-12 23:44:15 +0000",
       "minecraft:deep_cold_ocean": "2019-10-12 23:28:44 +0000",
       "minecraft:taiga_hills": "2019-10-13 00:09:13 +0000",
@@ -1182,6 +1221,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-10-14 14:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-10-14 22:05:11 +0000"
     },
     "done": true
   },
@@ -1242,6 +1287,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2019-10-14 23:02:11 +0000"
     },
     "done": true
   },
