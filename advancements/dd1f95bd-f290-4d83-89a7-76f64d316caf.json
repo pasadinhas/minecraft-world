@@ -301,6 +301,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
@@ -310,6 +322,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-10-14 14:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
@@ -659,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-10-14 14:34:35 +0000"
@@ -845,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
@@ -970,6 +1000,7 @@
       "minecraft:slime": "2019-10-18 10:26:22 +0000",
       "minecraft:wither_skeleton": "2019-10-18 14:44:25 +0000",
       "minecraft:silverfish": "2019-10-14 22:04:29 +0000",
+      "minecraft:enderman": "2019-10-19 12:57:53 +0000",
       "minecraft:zombie": "2019-10-14 14:59:35 +0000",
       "minecraft:drowned": "2019-10-18 18:51:41 +0000",
       "minecraft:zombie_villager": "2019-10-17 09:27:54 +0000"
@@ -1030,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_the_recipe": "2019-10-19 12:37:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
@@ -1039,6 +1076,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2019-10-13 00:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
@@ -1108,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-10-12 23:22:50 +0000"
@@ -1171,6 +1226,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-12 23:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
@@ -1504,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-10-14 14:51:03 +0000"
@@ -1531,6 +1598,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-10-14 15:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
@@ -1687,6 +1760,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2019-10-18 10:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
@@ -1995,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2019-10-16 16:52:24 +0000"
@@ -2037,9 +2122,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-10-14 14:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-10-19 12:37:06 +0000"
     },
     "done": true
   },
