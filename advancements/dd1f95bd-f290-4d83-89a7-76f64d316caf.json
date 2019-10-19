@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-10-18 22:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-10-14 14:34:29 +0000"
@@ -232,6 +238,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2019-10-18 15:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-10-18 22:17:10 +0000"
     },
     "done": true
   },
@@ -369,6 +381,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2019-10-18 19:49:54 +0000",
       "salmon": "2019-10-14 22:12:01 +0000",
       "cooked_salmon": "2019-10-12 23:19:13 +0000"
     },
@@ -922,6 +935,7 @@
       "minecraft:wither_skeleton": "2019-10-18 14:44:25 +0000",
       "minecraft:silverfish": "2019-10-14 22:04:29 +0000",
       "minecraft:zombie": "2019-10-14 14:59:35 +0000",
+      "minecraft:drowned": "2019-10-18 18:51:41 +0000",
       "minecraft:zombie_villager": "2019-10-17 09:27:54 +0000"
     },
     "done": false
