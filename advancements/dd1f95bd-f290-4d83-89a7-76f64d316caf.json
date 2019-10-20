@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-10-20 12:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
@@ -614,6 +620,12 @@
       "has_bed": "2019-10-12 23:09:42 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2019-10-20 12:30:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -1070,6 +1082,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-14 14:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-10-20 12:27:25 +0000"
     },
     "done": true
   },
@@ -2026,6 +2044,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-10-20 12:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-10-19 11:37:44 +0000"
@@ -2119,6 +2143,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2019-10-14 14:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-10-20 12:27:25 +0000"
     },
     "done": true
   },

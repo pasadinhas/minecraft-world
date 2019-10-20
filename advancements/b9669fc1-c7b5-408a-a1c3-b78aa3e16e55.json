@@ -2028,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2019-10-20 13:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-07-28 11:54:54 +0000"
