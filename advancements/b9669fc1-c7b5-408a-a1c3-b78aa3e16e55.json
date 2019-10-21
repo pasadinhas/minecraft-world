@@ -766,6 +766,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-07-07 15:28:58 +0000",
+      "minecraft:pillager": "2019-10-20 19:17:39 +0000",
       "minecraft:skeleton": "2018-07-28 12:36:37 +0000",
       "minecraft:zombie_pigman": "2018-07-28 15:20:06 +0000",
       "minecraft:ghast": "2018-07-28 15:15:30 +0000",
@@ -776,6 +777,7 @@
       "minecraft:phantom": "2018-08-05 18:33:21 +0000",
       "minecraft:witch": "2018-07-28 15:44:56 +0000",
       "minecraft:wither_skeleton": "2019-07-07 15:28:02 +0000",
+      "minecraft:husk": "2019-10-20 19:23:12 +0000",
       "minecraft:shulker": "2019-07-10 22:02:50 +0000",
       "minecraft:cave_spider": "2018-07-28 12:38:10 +0000",
       "minecraft:silverfish": "2019-07-07 14:30:21 +0000",
@@ -785,6 +787,12 @@
       "minecraft:zombie_villager": "2018-08-04 18:53:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2019-10-20 19:10:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1074,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2019-10-20 19:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2019-07-18 21:19:26 +0000"
@@ -1155,6 +1169,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2018-07-28 11:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2019-10-20 18:53:26 +0000"
     },
     "done": true
   },
@@ -1436,24 +1456,34 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-10-20 19:13:48 +0000",
       "minecraft:mushroom_fields": "2019-10-12 23:27:03 +0000",
       "minecraft:badlands_plateau": "2019-10-12 23:22:24 +0000",
       "minecraft:forest": "2018-07-28 12:02:26 +0000",
       "minecraft:mountains": "2018-08-05 12:52:19 +0000",
       "minecraft:taiga": "2018-07-28 14:28:46 +0000",
+      "minecraft:desert_hills": "2019-10-20 19:22:37 +0000",
+      "minecraft:giant_tree_taiga": "2019-10-20 19:14:52 +0000",
+      "minecraft:deep_cold_ocean": "2019-10-20 19:13:52 +0000",
       "minecraft:taiga_hills": "2019-07-07 20:16:07 +0000",
+      "minecraft:desert": "2019-10-20 19:20:14 +0000",
+      "minecraft:birch_forest": "2019-10-20 19:13:19 +0000",
       "minecraft:warm_ocean": "2018-07-28 14:27:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2018-07-28 11:42:12 +0000",
       "minecraft:badlands": "2019-07-07 13:54:51 +0000",
+      "minecraft:savanna_plateau": "2019-10-20 19:16:47 +0000",
       "minecraft:beach": "2018-07-28 11:07:25 +0000",
+      "minecraft:dark_forest": "2019-10-20 19:13:59 +0000",
       "minecraft:river": "2018-07-28 11:08:35 +0000",
       "minecraft:lukewarm_ocean": "2018-07-28 14:27:04 +0000",
+      "minecraft:birch_forest_hills": "2019-10-20 19:13:20 +0000",
       "minecraft:wooded_mountains": "2019-10-12 23:28:39 +0000",
       "minecraft:wooded_hills": "2019-07-07 19:43:31 +0000",
       "minecraft:stone_shore": "2018-08-05 12:51:44 +0000",
       "minecraft:mushroom_field_shore": "2019-10-12 23:26:58 +0000",
       "minecraft:wooded_badlands_plateau": "2019-07-07 14:43:30 +0000",
       "minecraft:swamp": "2019-07-07 13:59:41 +0000",
+      "minecraft:savanna": "2019-10-20 19:17:12 +0000",
       "minecraft:plains": "2018-07-28 11:06:09 +0000"
     },
     "done": false
@@ -2218,6 +2248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2019-10-20 19:10:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-07-28 11:43:02 +0000"
@@ -2611,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2019-10-20 19:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-07-07 11:46:59 +0000"
@@ -2890,6 +2932,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-07 13:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2019-10-20 19:53:01 +0000"
     },
     "done": true
   },
