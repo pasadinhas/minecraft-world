@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2019-10-26 13:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-07-28 12:37:37 +0000"
@@ -555,6 +561,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2018-07-28 12:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-10-26 12:59:21 +0000"
     },
     "done": true
   },
@@ -1019,6 +1031,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-28 16:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-10-26 13:11:29 +0000"
     },
     "done": true
   },
@@ -1809,6 +1827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-10-26 13:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2018-07-28 13:30:33 +0000"
@@ -1842,6 +1866,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2019-07-07 21:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2019-10-26 12:59:30 +0000"
     },
     "done": true
   },
@@ -2836,6 +2866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-10-26 13:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting": {
     "criteria": {
       "has_redstone_ore": "2019-07-07 13:25:46 +0000"
@@ -2911,6 +2947,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-06 17:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-10-26 12:59:21 +0000"
     },
     "done": true
   },
@@ -3385,6 +3427,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2018-07-28 12:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2019-10-26 12:59:23 +0000"
     },
     "done": true
   },
