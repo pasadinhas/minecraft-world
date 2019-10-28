@@ -522,6 +522,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2019-10-18 14:42:41 +0000",
+      "minecraft:pillager": "2019-10-28 13:55:32 +0000",
       "minecraft:skeleton": "2019-10-14 15:01:00 +0000",
       "minecraft:ghast": "2019-10-18 15:12:50 +0000",
       "minecraft:magma_cube": "2019-10-18 15:38:55 +0000",
@@ -601,6 +602,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-10-14 14:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2019-10-28 13:56:32 +0000"
     },
     "done": true
   },
