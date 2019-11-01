@@ -1511,6 +1511,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2019-10-18 19:49:54 +0000",
+      "rotten_flesh": "2019-10-31 18:59:56 +0000",
       "salmon": "2019-10-14 22:12:01 +0000",
       "cooked_salmon": "2019-10-12 23:19:13 +0000"
     },
