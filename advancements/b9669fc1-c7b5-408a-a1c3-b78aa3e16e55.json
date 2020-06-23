@@ -366,12 +366,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2019-07-07 19:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2019-07-10 22:04:54 +0000"
@@ -534,12 +528,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-02-29 17:54:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-28 16:30:04 +0000"
@@ -664,12 +652,6 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2018-08-05 12:53:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2019-07-07 11:57:01 +0000"
     },
     "done": true
   },
@@ -816,13 +798,13 @@
       "minecraft:pillager": "2019-10-20 19:17:39 +0000",
       "minecraft:blaze": "2019-07-07 15:28:58 +0000",
       "minecraft:skeleton": "2018-07-28 12:36:37 +0000",
-      "minecraft:zombie_pigman": "2018-07-28 15:20:06 +0000",
       "minecraft:ghast": "2018-07-28 15:15:30 +0000",
       "minecraft:magma_cube": "2019-07-07 16:49:37 +0000",
       "minecraft:spider": "2018-08-05 18:32:12 +0000",
       "minecraft:creeper": "2018-07-28 12:36:20 +0000",
       "minecraft:slime": "2019-07-07 20:59:42 +0000",
       "minecraft:phantom": "2018-08-05 18:33:21 +0000",
+      "minecraft:zombified_piglin": "2018-07-28 15:20:06 +0000",
       "minecraft:witch": "2018-07-28 15:44:56 +0000",
       "minecraft:wither_skeleton": "2019-07-07 15:28:02 +0000",
       "minecraft:husk": "2019-10-20 19:23:12 +0000",
@@ -983,6 +965,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-07-07 11:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-06-23 20:52:45 +0000"
     },
     "done": true
   },
@@ -1292,12 +1280,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2018-07-28 11:06:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2019-10-20 18:53:26 +0000"
@@ -1364,12 +1346,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2018-08-05 13:03:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-07-15 20:32:02 +0000"
@@ -1412,12 +1388,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2018-07-28 12:05:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-28 11:34:32 +0000"
@@ -1430,12 +1400,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2019-07-06 17:06:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2020-04-18 20:40:15 +0000"
@@ -1445,12 +1409,6 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-07-07 11:32:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_oramge_dye": "2019-07-07 17:52:02 +0000"
     },
     "done": true
   },
@@ -1928,6 +1886,12 @@
       "has_bamboo": "2019-10-25 21:09:14 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2020-06-23 20:53:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3745,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-02-29 17:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2019-07-07 15:25:44 +0000"
@@ -4083,5 +4053,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2566
 }
