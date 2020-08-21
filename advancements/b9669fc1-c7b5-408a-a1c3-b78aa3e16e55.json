@@ -1889,6 +1889,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-08-20 20:56:02 +0000",
+      "minecraft:nether_wastes": "2020-08-20 20:56:10 +0000",
       "minecraft:warped_forest": "2020-06-23 20:53:08 +0000"
     },
     "done": false
@@ -3901,6 +3903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2020-08-20 20:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2019-10-26 21:24:19 +0000"
@@ -4053,5 +4061,5 @@
     },
     "done": true
   },
-  "DataVersion": 2566
+  "DataVersion": 2578
 }
