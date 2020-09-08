@@ -534,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-09-07 20:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-28 16:30:04 +0000"
@@ -822,6 +828,7 @@
       "minecraft:husk": "2019-10-20 19:23:12 +0000",
       "minecraft:shulker": "2019-07-10 22:02:50 +0000",
       "minecraft:cave_spider": "2018-07-28 12:38:10 +0000",
+      "minecraft:piglin": "2020-09-07 20:44:24 +0000",
       "minecraft:enderman": "2018-07-28 12:46:18 +0000",
       "minecraft:silverfish": "2019-07-07 14:30:21 +0000",
       "minecraft:zombie": "2018-07-28 12:39:03 +0000",
@@ -1061,6 +1068,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2019-07-07 14:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-09-07 20:24:21 +0000"
     },
     "done": true
   },
@@ -1325,6 +1338,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2019-10-20 18:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-09-07 21:24:29 +0000"
     },
     "done": true
   },
@@ -4113,6 +4132,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-07-15 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-09-07 20:33:54 +0000"
     },
     "done": true
   },
