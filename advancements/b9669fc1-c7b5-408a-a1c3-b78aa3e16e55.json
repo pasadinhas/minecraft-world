@@ -817,6 +817,7 @@
       "minecraft:blaze": "2019-07-07 15:28:58 +0000",
       "minecraft:skeleton": "2018-07-28 12:36:37 +0000",
       "minecraft:ghast": "2018-07-28 15:15:30 +0000",
+      "minecraft:hoglin": "2020-09-09 16:47:54 +0000",
       "minecraft:magma_cube": "2019-07-07 16:49:37 +0000",
       "minecraft:spider": "2018-08-05 18:32:12 +0000",
       "minecraft:creeper": "2018-07-28 12:36:20 +0000",
@@ -2101,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-09-09 16:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-10-27 09:19:13 +0000"
@@ -3200,6 +3207,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-07-15 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2020-09-09 16:43:33 +0000"
     },
     "done": true
   },
